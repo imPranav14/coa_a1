@@ -1,0 +1,22 @@
+Time taken for Integer matrix multiplication of size 64x64: 0.107969 seconds
+python3 q2a.py  1.24s user 0.55s system 620% cpu 0.288 total
+Time taken for Integer matrix multiplication of size 128x128: 0.635660 seconds
+python3 q2a.py  2.14s user 0.54s system 352% cpu 0.760 total
+Time taken for Integer matrix multiplication of size 252x252: 4.407973 seconds
+python3 q2a.py  5.71s user 0.77s system 143% cpu 4.510 total
+Time taken for Integer matrix multiplication of size 512x512: 37.624068 seconds
+python3 q2a.py  38.68s user 0.96s system 105% cpu 37.738 total
+Time taken for Integer matrix multiplication of size 1024x1024: 309.580205 seconds
+python3 q2a.py  309.98s user 0.74s system 100% cpu 5:09.71 total
+
+
+Time taken for Double matrix multiplication of size 64x64: 0.110574 seconds
+python3 q2a.py  1.43s user 0.03s system 619% cpu 0.236 total
+Time taken for Double matrix multiplication of size 128x128: 0.670357 seconds
+python3 q2a.py  2.46s user 0.33s system 351% cpu 0.795 total
+Time taken for Double matrix multiplication of size 256x256: 4.802179 seconds
+python3 q2a.py  5.95s user 0.92s system 139% cpu 4.914 total
+Time taken for Double matrix multiplication of size 512x512: 39.336604 seconds
+python3 q2a.py  41.30s user 0.03s system 104% cpu 39.461 total
+Time taken for Double matrix multiplication of size 1024x1024: 738.520173 seconds
+python3 q2a.py  321.97s user 0.34s system 43% cpu 12:18.64 total
